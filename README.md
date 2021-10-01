@@ -1,4 +1,4 @@
-## Hello there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hello, there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 *My name is Crestel, Im a student at St. Mother Teresa HS, Ottawa, Canada.
 
